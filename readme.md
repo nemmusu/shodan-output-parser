@@ -18,8 +18,8 @@ This repository contains a script to download search results from Shodan and fil
 2. Clone this repository:
 
     ```sh
-    git clone https://github.com/nemmusu/shodan-wrapper.git
-    cd shodan-wrapper
+    git clone https://github.com/nemmusu/shodan-output-parser.git
+    cd shodan-output-parser
     ```
 
 ## Usage
