@@ -41,3 +41,18 @@ The main script `shodan_wrapper.py` wraps the Shodan download command and filter
 ```sh
 python shodan_wrapper.py results "org: yourorganization" --limit 100 -j -v
 ```
+
+## Screenshots
+
+Help:
+
+![help](https://github.com/nemmusu/shodan-output-parser/blob/main/doc/img/help.png)
+
+JSON output:
+![json](https://github.com/nemmusu/shodan-output-parser/blob/main/doc/img/json_file.png)
+
+Log file:
+![log](https://github.com/nemmusu/shodan-output-parser/blob/main/doc/img/log_file.png)
+
+Verbose:
+![verbose](https://github.com/nemmusu/shodan-output-parser/blob/main/doc/img/verbose.png)
