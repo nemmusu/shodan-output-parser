@@ -44,15 +44,18 @@ python shodan_wrapper.py results "org: yourorganization" --limit 100 -j -v
 
 ## Screenshots
 
-Help:
+### Help:
 
 ![help](https://github.com/nemmusu/shodan-output-parser/blob/main/doc/img/help.png)
 
-JSON output:
+### JSON output:
+
 ![json](https://github.com/nemmusu/shodan-output-parser/blob/main/doc/img/json_file.png)
 
-Log file:
+### Log file:
+
 ![log](https://github.com/nemmusu/shodan-output-parser/blob/main/doc/img/log_file.png)
 
-Verbose:
+### Verbose:
+
 ![verbose](https://github.com/nemmusu/shodan-output-parser/blob/main/doc/img/verbose.png)
